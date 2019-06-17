@@ -19,7 +19,7 @@ This is a personal project and not officially supported by Google (or me!)
 
 or if you want an interactive shell at the end
 
-`docker run -it davidwihl/google-ads:python /bin/bash
+`docker run -it davidwihl/google-ads:python /bin/bash`
 
 ### To rebuild
 
